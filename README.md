@@ -25,6 +25,7 @@ Whatever they want! But the most important thing would be these skills:
 - Soft skills: How to research, how to read docs, how to use tutorials and learn on your own
 - The Linux console and how to manage files, chain commands and write your own scripts
 - Code editor knowledge and productivity tricks
+  
 These provide the base necessary to progress in today's world, and they serve as the foundation through which you can learn and build anything. These skills would be taught first, and what comes next is up to them. Ideally, we would like to touch on these areas of programming:
 - ### Front end website development (HTML, CSS, JS and its popular libraries)
 	Using The Odin Project as a foundation, we would teach students how to create their own documents containing text, how to style them with style sheets, and how to make them interactive with JavaScript. We would start at the basics, and go through the developer experience chronologically: first with no build tools, just plain files, and then introduce the problems build tools and packagers solve with them. At the end of the course, we expect a student to be able to create their own website, research any behavior they require using the MDN docs, and work with their own preferred framework.
